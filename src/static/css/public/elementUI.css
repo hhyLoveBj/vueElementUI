@@ -1,0 +1,8 @@
+.el-header a {
+  text-decoration: none;
+}
+.el-header,
+.el-main,
+.el-footer {
+  padding: 0px;
+}

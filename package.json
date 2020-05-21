@@ -7,12 +7,22 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap-fileinput": "^5.0.8",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "element-ui": "^2.13.1",
+    "less": "^3.11.1",
+    "less-loader": "^5.0.0",
+    "popper.js": "^1.16.1",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.6",
+    "vuex": "^3.4.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
     "vue-template-compiler": "^2.6.10"
   }
 }
